@@ -1,0 +1,5 @@
+2014-12-04 16:37:16.940|SPARKSEE[INFO] ** START ** 2014-12-04 16:37:16.940 Software version: 5.1.0
+2014-12-04 16:37:16.940|SPARKSEE[INFO] No license code
+2014-12-04 16:37:16.948|SPARKSEE[INFO] GraphPool './sparksee_db/dobbo_db' has been created at ./sparksee_db/dobbo_db.gdb
+2014-12-04 16:37:17.148|GraphPool[INFO] Closed ./sparksee_db/dobbo_db.gdb
+2014-12-04 16:37:17.149|GraphPool[WARNING] Removed ./sparksee_db/dobbo_db.gdb.tmp
