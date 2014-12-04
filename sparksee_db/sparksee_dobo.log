@@ -1,0 +1,5 @@
+2014-12-04 16:52:19.493|SPARKSEE[INFO] ** START ** 2014-12-04 16:52:19.493 Software version: 5.1.0
+2014-12-04 16:52:19.493|SPARKSEE[INFO] Decoded license: Software version [5] Objects limit [100000000] Sessions limit [unlimited] Identifier [2095] Expiration date [2/2015] High-Availability [on]
+2014-12-04 16:52:19.503|SPARKSEE[INFO] GraphPool './sparksee_db/dobbo_db' has been created at ./sparksee_db/dobbo_db.gdb
+2014-12-04 16:52:19.712|GraphPool[INFO] Closed ./sparksee_db/dobbo_db.gdb
+2014-12-04 16:52:19.713|GraphPool[WARNING] Removed ./sparksee_db/dobbo_db.gdb.tmp
